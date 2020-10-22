@@ -11,6 +11,7 @@ namespace Github
         static void Main(string[] args)
         {
             Console.Write("xin chao hong van");
+            Console.Write("hiiii");
             Console.WriteLine();
         }
     }
